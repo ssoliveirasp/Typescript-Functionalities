@@ -12,7 +12,6 @@ mySearch = function(source: string, subString: string) {
     let result = source.search(subString);
     return result > -1;
 }
-
 //***********************************/
 // Create method accepting interface #2
 //***********************************/
